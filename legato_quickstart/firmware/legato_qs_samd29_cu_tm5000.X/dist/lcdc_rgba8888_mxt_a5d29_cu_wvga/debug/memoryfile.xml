@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/lcdc_rgba8888_mxt_a5d29_cu_wvga/debug/legato_qs_samd29_cu_tm5000.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>520093696</length>
+      <used>943392</used>
+      <free>519150304</free>
+    </memory>
+  </executable>
+</project>

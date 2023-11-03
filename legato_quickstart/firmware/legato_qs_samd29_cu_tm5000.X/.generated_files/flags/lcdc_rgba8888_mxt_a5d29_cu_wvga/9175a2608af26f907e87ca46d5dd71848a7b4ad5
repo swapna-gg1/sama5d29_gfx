@@ -1,0 +1,1 @@
+$(MP_EXTRA_AS_PRE)  -c -mprocessor=$(MP_PROCESSOR_OPTION) -DXPRJ_lcdc_rgba8888_mxt_a5d29_cu_wvga=$(CND_CONF)    -Wa,--defsym=__MPLAB_BUILD=1$(MP_EXTRA_AS_POST),--gdwarf-2 -mdfp="${DFP_DIR}"C:\Users\c40450\HarmonyProjects\sama5d29_gfx\legato_quickstart\firmware\src\config\lcdc_rgba8888_mxt_a5d29_cu_wvga\cstartup.S
